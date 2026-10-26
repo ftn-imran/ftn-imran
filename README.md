@@ -34,7 +34,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sass,mysql,mongodb,express,react,nodejs,redis,git,github,githubactions,docker,aws,linux,ubuntu,netlify,vercel,cloudflare)](https://skillicons.dev)
 </div>
 
 
@@ -70,7 +70,7 @@
   <p align="center">
    <img
       src="https://fabianocouto-activity-graph.vercel.app/graph/?username=ftn-imran&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
-      alt="Md Abu Kayser's GitHub Contribution Analytics"
+      alt="Imran Ali's GitHub Contribution Analytics"
       width="98%"
     />
   </p>
